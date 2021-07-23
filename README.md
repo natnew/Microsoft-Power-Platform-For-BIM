@@ -19,4 +19,15 @@ I am Natasha, a AEC (Architectural, engineering and construction) professional w
 ## My Skills 
 `HTML` `CSS` `Python` `SAAS` `Javascript` `Github` `Low Code App Development` `Canvas Based Power Apps` `Model Driven Power Apps` `Digital Twins` `BIM Management`
 
-## 
+## Power Automate Flows
+
+* Email my location
+* Block out my calendar for an hour
+* Email a note/reminder
+* Email me a list of up and coming calendar events
+* Follow up on a message
+* Get Daily Reminders
+
+## Power BI Dashboards
+
+## Power Apps
