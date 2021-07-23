@@ -1,10 +1,10 @@
 # Microsoft Power Platform-For-BIM
-This repo contains files from Microsoft Power Platform Projects. 
+This repo contains files from my Microsoft Power Platform projects. 
 
 ## About Me
-I am Natasha, a AEC (Architectural, engineering and construction) professional who is interested in Code. My Github will host a variety of content from Dynamo scripts to apps. I am interested in collaborating on projects with other code enthusiast, with the hope of improving on my skills and helping others along the way. Feel free to reach out to me on Twitter or Linkedin. [https://github.com/natnew] [https://www.linkedin.com/in/natasha-newbold/]
+I am Natasha, a AEC (Architectural, engineering and construction) professional who is interested in Code. 
 
-## You can find me here:
+## You Can Find Me Here:
 * [https://github.com/natnew]
 * [https://www.linkedin.com/in/natasha-newbold/]
 * @NatashaTweets2
@@ -17,9 +17,9 @@ I am Natasha, a AEC (Architectural, engineering and construction) professional w
 * AEC And MFG collaboration: Digital Twins
 
 ## My Skills 
-`HTML` `CSS` `Python` `SAAS` `Javascript` `Github` `Low Code App Development` `Canvas Based Power Apps` `Model Driven Power Apps` `Digital Twins` `BIM Management`
+`HTML` `CSS` `Python` `SAAS` `JavaScript` `Github` `Low Code App Development` `Canvas Based Power Apps` `Model Driven Power Apps` `Digital Twins` `BIM Management`
 
-## Power Automate Flows
+## Power Automate Cloud Flows
 
 * Email my location
 * Block out my calendar for an hour
@@ -29,5 +29,17 @@ I am Natasha, a AEC (Architectural, engineering and construction) professional w
 * Get Daily Reminders
 
 ## Power BI Dashboards
+* Dashboards that track and analyse the health of an AEC project. From BIM models, to site inspection forms and everything in between, these dashboards make it easy for project members to ensure that their project is meeting expectations. 
 
 ## Power Apps
+
+* Checks the quality of data placed in forms and displays the output as a visualisation. 
+
+
+
+## AI Models
+
+* Construction On-site time sheets
+* Daily Safety Inspections
+* Daily Reports
+* Job Hazard Analysis
