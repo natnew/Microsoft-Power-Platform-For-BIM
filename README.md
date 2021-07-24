@@ -2,7 +2,7 @@
 This repo contains files from my Microsoft Power Platform projects. 
 
 ## About Me
-I am Natasha, a AEC (Architectural, engineering and construction) professional who is interested in Code. 
+I am Natasha, an AEC (Architectural, engineering and construction) professional who is interested in Code. 
 
 ## You Can Find Me Here:
 * [https://github.com/natnew]
