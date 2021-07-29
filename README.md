@@ -24,12 +24,12 @@ I am Natasha, an AEC (Architectural, engineering and construction) professional 
 * Email my location
 * Block out my calendar for an hour
 * Email a note/reminder
-* Email me a list of up and coming calendar events
+* Email me a list of up-and-coming calendar events
 * Follow up on a message
 * Get Daily Reminders
 
 ## Power BI Dashboards
-* Dashboards that track and analyse the health of an AEC project. From BIM models, to site inspection forms and everything in between, these dashboards make it easy for project members to ensure that their project is meeting expectations. 
+* Dashboards that track and analyse the health of an AEC project. From BIM models to site inspection forms and everything in between, these dashboards make it easy for project members to ensure that their project is meeting expectations. 
 
 ## Power Apps
 * Checks the quality of data placed in forms and displays the output as a visualisation. 
