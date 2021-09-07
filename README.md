@@ -1,5 +1,6 @@
 # Microsoft Power Platform-For-BIM
-This repo contains files from my Microsoft Power Platform projects. 
+This repo contains files from my Microsoft Power Platform projects. <br>
+See [Microsoft Power Documentation](https://docs.microsoft.com/en-us/powerapps/#pivot=home&panel=developer)
 
 ## About Me
 I am Natasha, an AEC (Architectural, engineering and construction) professional who is interested in Code. 
